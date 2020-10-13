@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_search_field">SearchFieldActivity</string>
+
+    <string name="search_with_google">Google로 검색</string>
+    <string name="search_with_naver">Naver로 검색</string>
+    <string name="search_with_daum">Daum으로 검색</string>
+</resources>
